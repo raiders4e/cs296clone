@@ -1,0 +1,14 @@
+Permissions (PAGE 236 GOSSELIN)
+Permissions     1st Digit       2nd Digit        3rd Digit      4th Digit       
+                Always 0        User (u)         Group (g)      Other (o)          
+________________________________________________________________________________                       
+Read    (r)     0                   4               4               4
+Write   (w)     0                   2               2               2
+Execute (x)     0                   1               1               1
+
+
+$testfile = file(dir/file);
+chmod($testfile, 0750);
+$perms = fileperms($testfile);
+$perms = decoct($perms % 01000);
+echo "File permissinos for $testfile: 0" . $perms . "<br />\n";

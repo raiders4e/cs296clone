@@ -1,0 +1,10 @@
+[07-Jan-2016 18:58:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Gosselin/Chapter_6/Practice/P.328/Find_Extract_Elements_and_Values.php on line 8
+[07-Jan-2016 18:58:37 UTC] PHP Stack trace:
+[07-Jan-2016 18:58:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/Gosselin/Chapter_6/Practice/P.328/Find_Extract_Elements_and_Values.php:0
+[07-Jan-2016 19:08:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Gosselin/Chapter_6/Practice/P.328-329/Find_Extract_Elements_and_Values.php on line 8
+[07-Jan-2016 19:08:07 UTC] PHP Stack trace:
+[07-Jan-2016 19:08:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/Gosselin/Chapter_6/Practice/P.328-329/Find_Extract_Elements_and_Values.php:0
+[07-Jan-2016 19:08:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/Gosselin/Chapter_6/Practice/P.328-329/Find_Extract_Elements_and_Values.php on line 32
+[07-Jan-2016 19:08:07 UTC] PHP Stack trace:
+[07-Jan-2016 19:08:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/Gosselin/Chapter_6/Practice/P.328-329/Find_Extract_Elements_and_Values.php:0
+[07-Jan-2016 19:08:07 UTC] PHP   2. in_array(*uninitialized*, *uninitialized*) /home/ubuntu/workspace/Gosselin/Chapter_6/Practice/P.328-329/Find_Extract_Elements_and_Values.php:32

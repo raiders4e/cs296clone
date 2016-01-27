@@ -1,0 +1,127 @@
+[25-Jan-2016 21:27:28 UTC] PHP Fatal error:  Call to undefined function isset_() in /home/ubuntu/workspace/Yank/Chapter_9/cookiecounter/index.php on line 3
+[25-Jan-2016 21:27:28 UTC] PHP Stack trace:
+[25-Jan-2016 21:27:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/cookiecounter/index.php:0
+[25-Jan-2016 21:28:09 UTC] PHP Fatal error:  Call to undefined function isset_() in /home/ubuntu/workspace/Yank/Chapter_9/cookiecounter/index.php on line 3
+[25-Jan-2016 21:28:09 UTC] PHP Stack trace:
+[25-Jan-2016 21:28:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/cookiecounter/index.php:0
+[25-Jan-2016 21:28:15 UTC] PHP Fatal error:  Call to undefined function isset_() in /home/ubuntu/workspace/Yank/Chapter_9/cookiecounter/index.php on line 3
+[25-Jan-2016 21:28:15 UTC] PHP Stack trace:
+[25-Jan-2016 21:28:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/cookiecounter/index.php:0
+[25-Jan-2016 21:53:41 UTC] PHP Fatal error:  Call to undefined function vardump() in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php on line 11
+[25-Jan-2016 21:53:41 UTC] PHP Stack trace:
+[25-Jan-2016 21:53:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:0
+[25-Jan-2016 21:53:56 UTC] PHP Fatal error:  Call to undefined function vardump() in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php on line 11
+[25-Jan-2016 21:53:56 UTC] PHP Stack trace:
+[25-Jan-2016 21:53:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:0
+[25-Jan-2016 22:11:10 UTC] PHP Fatal error:  Call to undefined function vardump() in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php on line 11
+[25-Jan-2016 22:11:10 UTC] PHP Stack trace:
+[25-Jan-2016 22:11:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:0
+[25-Jan-2016 22:24:52 UTC] PHP Warning:  session_start(): open(C:\WINDOWS\TEMP/sess_45671n9v2d0k5v92ef86l4paj1, O_RDWR) failed: No such file or directory (2) in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php on line 15
+[25-Jan-2016 22:24:52 UTC] PHP Stack trace:
+[25-Jan-2016 22:24:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:0
+[25-Jan-2016 22:24:52 UTC] PHP   2. session_start() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:15
+[25-Jan-2016 22:56:40 UTC] PHP Warning:  session_start(): open(C:\WINDOWS\TEMP/sess_45671n9v2d0k5v92ef86l4paj1, O_RDWR) failed: No such file or directory (2) in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php on line 15
+[25-Jan-2016 22:56:40 UTC] PHP Stack trace:
+[25-Jan-2016 22:56:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:0
+[25-Jan-2016 22:56:40 UTC] PHP   2. session_start() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:15
+[25-Jan-2016 22:56:40 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/catalog.html.php on line 46
+[25-Jan-2016 22:56:40 UTC] PHP Stack trace:
+[25-Jan-2016 22:56:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:0
+[25-Jan-2016 22:57:44 UTC] PHP Warning:  session_start(): open(C:\WINDOWS\TEMP/sess_45671n9v2d0k5v92ef86l4paj1, O_RDWR) failed: No such file or directory (2) in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php on line 15
+[25-Jan-2016 22:57:44 UTC] PHP Stack trace:
+[25-Jan-2016 22:57:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:0
+[25-Jan-2016 22:57:44 UTC] PHP   2. session_start() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:15
+[25-Jan-2016 22:57:44 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/catalog.html.php on line 46
+[25-Jan-2016 22:57:44 UTC] PHP Stack trace:
+[25-Jan-2016 22:57:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:0
+[25-Jan-2016 22:57:58 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/catalog.html.php on line 46
+[25-Jan-2016 23:28:43 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/catalog.html.php on line 46
+[25-Jan-2016 23:29:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/catalog.html.php on line 29
+[25-Jan-2016 23:29:03 UTC] PHP Stack trace:
+[25-Jan-2016 23:29:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/catalog.html.php:0
+[25-Jan-2016 23:29:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/catalog.html.php on line 29
+[25-Jan-2016 23:29:27 UTC] PHP Stack trace:
+[25-Jan-2016 23:29:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/catalog.html.php:0
+[25-Jan-2016 23:37:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/catalog.html.php on line 29
+[25-Jan-2016 23:37:20 UTC] PHP Stack trace:
+[25-Jan-2016 23:37:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/catalog.html.php:0
+[25-Jan-2016 23:38:08 UTC] PHP Warning:  session_start(): open(C:\WINDOWS\TEMP/sess_45671n9v2d0k5v92ef86l4paj1, O_RDWR) failed: No such file or directory (2) in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php on line 15
+[25-Jan-2016 23:38:08 UTC] PHP Stack trace:
+[25-Jan-2016 23:38:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:0
+[25-Jan-2016 23:38:08 UTC] PHP   2. session_start() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:15
+[25-Jan-2016 23:39:03 UTC] PHP Warning:  session_start(): open(C:\WINDOWS\TEMP/sess_45671n9v2d0k5v92ef86l4paj1, O_RDWR) failed: No such file or directory (2) in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php on line 15
+[25-Jan-2016 23:39:03 UTC] PHP Stack trace:
+[25-Jan-2016 23:39:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:0
+[25-Jan-2016 23:39:03 UTC] PHP   2. session_start() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:15
+[25-Jan-2016 23:40:01 UTC] PHP Warning:  session_start(): open(C:\WINDOWS\TEMP/sess_45671n9v2d0k5v92ef86l4paj1, O_RDWR) failed: No such file or directory (2) in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php on line 15
+[25-Jan-2016 23:40:01 UTC] PHP Stack trace:
+[25-Jan-2016 23:40:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:0
+[25-Jan-2016 23:40:01 UTC] PHP   2. session_start() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:15
+[25-Jan-2016 23:40:06 UTC] PHP Warning:  session_start(): open(C:\WINDOWS\TEMP/sess_45671n9v2d0k5v92ef86l4paj1, O_RDWR) failed: No such file or directory (2) in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php on line 15
+[25-Jan-2016 23:40:06 UTC] PHP Stack trace:
+[25-Jan-2016 23:40:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:0
+[25-Jan-2016 23:40:06 UTC] PHP   2. session_start() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:15
+[25-Jan-2016 23:42:28 UTC] PHP Warning:  session_start(): open(C:\WINDOWS\TEMP/sess_45671n9v2d0k5v92ef86l4paj1, O_RDWR) failed: No such file or directory (2) in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php on line 15
+[25-Jan-2016 23:42:28 UTC] PHP Stack trace:
+[25-Jan-2016 23:42:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:0
+[25-Jan-2016 23:42:28 UTC] PHP   2. session_start() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:15
+[25-Jan-2016 23:45:55 UTC] PHP Warning:  session_start(): open(C:\WINDOWS\TEMP/sess_45671n9v2d0k5v92ef86l4paj1, O_RDWR) failed: No such file or directory (2) in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php on line 15
+[25-Jan-2016 23:45:55 UTC] PHP Stack trace:
+[25-Jan-2016 23:45:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:0
+[25-Jan-2016 23:45:55 UTC] PHP   2. session_start() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:15
+[25-Jan-2016 23:47:12 UTC] PHP Warning:  session_start(): open(C:\WINDOWS\TEMP/sess_45671n9v2d0k5v92ef86l4paj1, O_RDWR) failed: No such file or directory (2) in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php on line 15
+[25-Jan-2016 23:47:12 UTC] PHP Stack trace:
+[25-Jan-2016 23:47:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:0
+[25-Jan-2016 23:47:12 UTC] PHP   2. session_start() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:15
+[25-Jan-2016 23:50:59 UTC] PHP Warning:  session_start(): open(C:\WINDOWS\TEMP/sess_45671n9v2d0k5v92ef86l4paj1, O_RDWR) failed: No such file or directory (2) in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php on line 15
+[25-Jan-2016 23:50:59 UTC] PHP Stack trace:
+[25-Jan-2016 23:50:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:0
+[25-Jan-2016 23:50:59 UTC] PHP   2. session_start() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:15
+[26-Jan-2016 00:32:46 UTC] PHP Warning:  session_start(): open(C:\WINDOWS\TEMP/sess_45671n9v2d0k5v92ef86l4paj1, O_RDWR) failed: No such file or directory (2) in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php on line 15
+[26-Jan-2016 00:32:46 UTC] PHP Stack trace:
+[26-Jan-2016 00:32:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:0
+[26-Jan-2016 00:32:46 UTC] PHP   2. session_start() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:15
+[27-Jan-2016 17:14:32 UTC] PHP Warning:  session_start(): open(C:\WINDOWS\TEMP/sess_7umf0sq38m9ub5sc2ojd7ntfk0, O_RDWR) failed: No such file or directory (2) in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php on line 15
+[27-Jan-2016 17:14:32 UTC] PHP Stack trace:
+[27-Jan-2016 17:14:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:0
+[27-Jan-2016 17:14:32 UTC] PHP   2. session_start() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:15
+[27-Jan-2016 17:14:57 UTC] PHP Warning:  session_start(): open(C:\WINDOWS\TEMP/sess_7umf0sq38m9ub5sc2ojd7ntfk0, O_RDWR) failed: No such file or directory (2) in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php on line 15
+[27-Jan-2016 17:14:57 UTC] PHP Stack trace:
+[27-Jan-2016 17:14:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:0
+[27-Jan-2016 17:14:57 UTC] PHP   2. session_start() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:15
+[27-Jan-2016 17:17:17 UTC] PHP Warning:  session_start(): open(C:\WINDOWS\TEMP/sess_7umf0sq38m9ub5sc2ojd7ntfk0, O_RDWR) failed: No such file or directory (2) in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php on line 15
+[27-Jan-2016 17:17:17 UTC] PHP Stack trace:
+[27-Jan-2016 17:17:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:0
+[27-Jan-2016 17:17:17 UTC] PHP   2. session_start() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:15
+[27-Jan-2016 17:17:26 UTC] PHP Warning:  session_start(): open(C:\WINDOWS\TEMP/sess_7umf0sq38m9ub5sc2ojd7ntfk0, O_RDWR) failed: No such file or directory (2) in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php on line 15
+[27-Jan-2016 17:17:26 UTC] PHP Stack trace:
+[27-Jan-2016 17:17:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:0
+[27-Jan-2016 17:17:26 UTC] PHP   2. session_start() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:15
+[27-Jan-2016 17:17:50 UTC] PHP Warning:  session_start(): open(C:\WINDOWS\TEMP/sess_7umf0sq38m9ub5sc2ojd7ntfk0, O_RDWR) failed: No such file or directory (2) in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php on line 15
+[27-Jan-2016 17:17:50 UTC] PHP Stack trace:
+[27-Jan-2016 17:17:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:0
+[27-Jan-2016 17:17:50 UTC] PHP   2. session_start() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:15
+[27-Jan-2016 17:18:24 UTC] PHP Warning:  session_start(): open(/path/sess_7umf0sq38m9ub5sc2ojd7ntfk0, O_RDWR) failed: No such file or directory (2) in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php on line 15
+[27-Jan-2016 17:18:24 UTC] PHP Stack trace:
+[27-Jan-2016 17:18:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:0
+[27-Jan-2016 17:18:24 UTC] PHP   2. session_start() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:15
+[27-Jan-2016 17:21:57 UTC] PHP Warning:  session_start(): open(/path/sess_7umf0sq38m9ub5sc2ojd7ntfk0, O_RDWR) failed: No such file or directory (2) in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php on line 15
+[27-Jan-2016 17:21:57 UTC] PHP Stack trace:
+[27-Jan-2016 17:21:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:0
+[27-Jan-2016 17:21:57 UTC] PHP   2. session_start() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:15
+[27-Jan-2016 17:23:40 UTC] PHP Warning:  session_start(): open(/path/sess_7umf0sq38m9ub5sc2ojd7ntfk0, O_RDWR) failed: No such file or directory (2) in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php on line 15
+[27-Jan-2016 17:23:40 UTC] PHP Stack trace:
+[27-Jan-2016 17:23:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:0
+[27-Jan-2016 17:23:40 UTC] PHP   2. session_start() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:15
+[27-Jan-2016 17:23:43 UTC] PHP Warning:  session_start(): open(/path/sess_7umf0sq38m9ub5sc2ojd7ntfk0, O_RDWR) failed: No such file or directory (2) in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php on line 15
+[27-Jan-2016 17:23:43 UTC] PHP Stack trace:
+[27-Jan-2016 17:23:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:0
+[27-Jan-2016 17:23:43 UTC] PHP   2. session_start() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:15
+[27-Jan-2016 17:23:44 UTC] PHP Warning:  session_start(): open(/path/sess_7umf0sq38m9ub5sc2ojd7ntfk0, O_RDWR) failed: No such file or directory (2) in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php on line 15
+[27-Jan-2016 17:23:44 UTC] PHP Stack trace:
+[27-Jan-2016 17:23:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:0
+[27-Jan-2016 17:23:44 UTC] PHP   2. session_start() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:15
+[27-Jan-2016 23:04:29 UTC] PHP Warning:  session_start(): open(/path/sess_45671n9v2d0k5v92ef86l4paj1, O_RDWR) failed: No such file or directory (2) in /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php on line 15
+[27-Jan-2016 23:04:29 UTC] PHP Stack trace:
+[27-Jan-2016 23:04:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:0
+[27-Jan-2016 23:04:29 UTC] PHP   2. session_start() /home/ubuntu/workspace/Yank/Chapter_9/shoppingcart/index.php:15
