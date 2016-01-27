@@ -1,0 +1,3 @@
+(String Question)~Don Gosselin~Which string function would you use to determine if an essa
+Sending mail with PHP~Don Gosselin~What are three required arguments of the mail() function?
+PHP and Directories~Don Gosselin~What function returns an indexed array containing the 

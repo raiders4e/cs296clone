@@ -1,0 +1,159 @@
+[16-Jan-2016 20:41:50 UTC] PHP Warning:  include_once(/home/ubuntu/workspace/includes/magicquotes.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 3
+[16-Jan-2016 20:41:50 UTC] PHP Stack trace:
+[16-Jan-2016 20:41:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:41:50 UTC] PHP Warning:  include_once(): Failed opening '/home/ubuntu/workspace/includes/magicquotes.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 3
+[16-Jan-2016 20:41:50 UTC] PHP Stack trace:
+[16-Jan-2016 20:41:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:41:50 UTC] PHP Warning:  include(/home/ubuntu/workspace/includes/db.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 178
+[16-Jan-2016 20:41:50 UTC] PHP Stack trace:
+[16-Jan-2016 20:41:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:41:50 UTC] PHP Warning:  include(): Failed opening '/home/ubuntu/workspace/includes/db.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 178
+[16-Jan-2016 20:41:50 UTC] PHP Stack trace:
+[16-Jan-2016 20:41:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:41:50 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 182
+[16-Jan-2016 20:41:50 UTC] PHP Stack trace:
+[16-Jan-2016 20:41:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:42:19 UTC] PHP Warning:  include_once(/home/ubuntu/workspace/includes/magicquotes.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 3
+[16-Jan-2016 20:42:19 UTC] PHP Stack trace:
+[16-Jan-2016 20:42:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:42:19 UTC] PHP Warning:  include_once(): Failed opening '/home/ubuntu/workspace/includes/magicquotes.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 3
+[16-Jan-2016 20:42:19 UTC] PHP Stack trace:
+[16-Jan-2016 20:42:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:42:19 UTC] PHP Warning:  include(/home/ubuntu/workspace/includes/db.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 178
+[16-Jan-2016 20:42:19 UTC] PHP Stack trace:
+[16-Jan-2016 20:42:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:42:19 UTC] PHP Warning:  include(): Failed opening '/home/ubuntu/workspace/includes/db.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 178
+[16-Jan-2016 20:42:19 UTC] PHP Stack trace:
+[16-Jan-2016 20:42:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:42:19 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 182
+[16-Jan-2016 20:42:19 UTC] PHP Stack trace:
+[16-Jan-2016 20:42:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:42:21 UTC] PHP Warning:  include_once(/home/ubuntu/workspace/includes/magicquotes.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 3
+[16-Jan-2016 20:42:21 UTC] PHP Stack trace:
+[16-Jan-2016 20:42:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:42:21 UTC] PHP Warning:  include_once(): Failed opening '/home/ubuntu/workspace/includes/magicquotes.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 3
+[16-Jan-2016 20:42:21 UTC] PHP Stack trace:
+[16-Jan-2016 20:42:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:42:21 UTC] PHP Warning:  include(/home/ubuntu/workspace/includes/db.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 178
+[16-Jan-2016 20:42:21 UTC] PHP Stack trace:
+[16-Jan-2016 20:42:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:42:21 UTC] PHP Warning:  include(): Failed opening '/home/ubuntu/workspace/includes/db.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 178
+[16-Jan-2016 20:42:21 UTC] PHP Stack trace:
+[16-Jan-2016 20:42:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:42:21 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 182
+[16-Jan-2016 20:42:21 UTC] PHP Stack trace:
+[16-Jan-2016 20:42:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:42:25 UTC] PHP Warning:  include_once(/home/ubuntu/workspace/includes/magicquotes.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 3
+[16-Jan-2016 20:42:25 UTC] PHP Stack trace:
+[16-Jan-2016 20:42:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:42:25 UTC] PHP Warning:  include_once(): Failed opening '/home/ubuntu/workspace/includes/magicquotes.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 3
+[16-Jan-2016 20:42:25 UTC] PHP Stack trace:
+[16-Jan-2016 20:42:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:42:25 UTC] PHP Warning:  include(/home/ubuntu/workspace/includes/db.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 178
+[16-Jan-2016 20:42:25 UTC] PHP Stack trace:
+[16-Jan-2016 20:42:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:42:25 UTC] PHP Warning:  include(): Failed opening '/home/ubuntu/workspace/includes/db.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 178
+[16-Jan-2016 20:42:25 UTC] PHP Stack trace:
+[16-Jan-2016 20:42:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:42:25 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 182
+[16-Jan-2016 20:42:25 UTC] PHP Stack trace:
+[16-Jan-2016 20:42:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:43:11 UTC] PHP Warning:  include_once(/home/ubuntu/workspace/includes/magicquotes.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 3
+[16-Jan-2016 20:43:11 UTC] PHP Stack trace:
+[16-Jan-2016 20:43:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:43:11 UTC] PHP Warning:  include_once(): Failed opening '/home/ubuntu/workspace/includes/magicquotes.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 3
+[16-Jan-2016 20:43:11 UTC] PHP Stack trace:
+[16-Jan-2016 20:43:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:43:11 UTC] PHP Warning:  include(/home/ubuntu/workspace/includes/db.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 178
+[16-Jan-2016 20:43:11 UTC] PHP Stack trace:
+[16-Jan-2016 20:43:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:43:11 UTC] PHP Warning:  include(): Failed opening '/home/ubuntu/workspace/includes/db.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 178
+[16-Jan-2016 20:43:11 UTC] PHP Stack trace:
+[16-Jan-2016 20:43:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:43:11 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 182
+[16-Jan-2016 20:43:11 UTC] PHP Stack trace:
+[16-Jan-2016 20:43:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:43:59 UTC] PHP Warning:  include_once(/home/ubuntu/workspace/includes/magicquotes.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 3
+[16-Jan-2016 20:43:59 UTC] PHP Stack trace:
+[16-Jan-2016 20:43:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:43:59 UTC] PHP Warning:  include_once(): Failed opening '/home/ubuntu/workspace/includes/magicquotes.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 3
+[16-Jan-2016 20:43:59 UTC] PHP Stack trace:
+[16-Jan-2016 20:43:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:43:59 UTC] PHP Warning:  include(/home/ubuntu/workspace/includes/db.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 178
+[16-Jan-2016 20:43:59 UTC] PHP Stack trace:
+[16-Jan-2016 20:43:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:43:59 UTC] PHP Warning:  include(): Failed opening '/home/ubuntu/workspace/includes/db.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 178
+[16-Jan-2016 20:43:59 UTC] PHP Stack trace:
+[16-Jan-2016 20:43:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:43:59 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 182
+[16-Jan-2016 20:43:59 UTC] PHP Stack trace:
+[16-Jan-2016 20:43:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:45:26 UTC] PHP Warning:  include_once(/home/ubuntu/workspace/includes/magicquotes.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 3
+[16-Jan-2016 20:45:26 UTC] PHP Stack trace:
+[16-Jan-2016 20:45:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:45:26 UTC] PHP Warning:  include_once(): Failed opening '/home/ubuntu/workspace/includes/magicquotes.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 3
+[16-Jan-2016 20:45:26 UTC] PHP Stack trace:
+[16-Jan-2016 20:45:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:45:26 UTC] PHP Warning:  include(/home/ubuntu/workspace/includes/db.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 178
+[16-Jan-2016 20:45:26 UTC] PHP Stack trace:
+[16-Jan-2016 20:45:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:45:26 UTC] PHP Warning:  include(): Failed opening '/home/ubuntu/workspace/includes/db.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 178
+[16-Jan-2016 20:45:26 UTC] PHP Stack trace:
+[16-Jan-2016 20:45:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:45:26 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 182
+[16-Jan-2016 20:45:26 UTC] PHP Stack trace:
+[16-Jan-2016 20:45:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:49:48 UTC] PHP Warning:  include_once(/home/ubuntu/workspace/includes/magicquotes.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 3
+[16-Jan-2016 20:49:48 UTC] PHP Stack trace:
+[16-Jan-2016 20:49:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:49:48 UTC] PHP Warning:  include_once(): Failed opening '/home/ubuntu/workspace/includes/magicquotes.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 3
+[16-Jan-2016 20:49:48 UTC] PHP Stack trace:
+[16-Jan-2016 20:49:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:49:48 UTC] PHP Warning:  include(/home/ubuntu/workspace/includes/db.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 178
+[16-Jan-2016 20:49:48 UTC] PHP Stack trace:
+[16-Jan-2016 20:49:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:49:48 UTC] PHP Warning:  include(): Failed opening '/home/ubuntu/workspace/includes/db.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 178
+[16-Jan-2016 20:49:48 UTC] PHP Stack trace:
+[16-Jan-2016 20:49:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:49:48 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 182
+[16-Jan-2016 20:49:48 UTC] PHP Stack trace:
+[16-Jan-2016 20:49:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:50:47 UTC] PHP Warning:  include_once(/home/ubuntu/workspace/Yank/includes/magicquotes.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 3
+[16-Jan-2016 20:50:47 UTC] PHP Stack trace:
+[16-Jan-2016 20:50:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:50:47 UTC] PHP Warning:  include_once(): Failed opening '/home/ubuntu/workspace/Yank/includes/magicquotes.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 3
+[16-Jan-2016 20:50:47 UTC] PHP Stack trace:
+[16-Jan-2016 20:50:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:50:47 UTC] PHP Warning:  include(/home/ubuntu/workspace/includes/db.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 178
+[16-Jan-2016 20:50:47 UTC] PHP Stack trace:
+[16-Jan-2016 20:50:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:50:47 UTC] PHP Warning:  include(): Failed opening '/home/ubuntu/workspace/includes/db.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 178
+[16-Jan-2016 20:50:47 UTC] PHP Stack trace:
+[16-Jan-2016 20:50:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:50:47 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 182
+[16-Jan-2016 20:50:47 UTC] PHP Stack trace:
+[16-Jan-2016 20:50:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:50:47 UTC] PHP Warning:  include_once(/home/ubuntu/workspace/Yank/includes/magicquotes.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 3
+[16-Jan-2016 20:50:47 UTC] PHP Stack trace:
+[16-Jan-2016 20:50:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:50:47 UTC] PHP Warning:  include_once(): Failed opening '/home/ubuntu/workspace/Yank/includes/magicquotes.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 3
+[16-Jan-2016 20:50:47 UTC] PHP Stack trace:
+[16-Jan-2016 20:50:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:50:47 UTC] PHP Warning:  include(/home/ubuntu/workspace/includes/db.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 178
+[16-Jan-2016 20:50:47 UTC] PHP Stack trace:
+[16-Jan-2016 20:50:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:50:47 UTC] PHP Warning:  include(): Failed opening '/home/ubuntu/workspace/includes/db.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 178
+[16-Jan-2016 20:50:47 UTC] PHP Stack trace:
+[16-Jan-2016 20:50:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:50:47 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php on line 182
+[16-Jan-2016 20:50:47 UTC] PHP Stack trace:
+[16-Jan-2016 20:50:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/authors/index.php:0
+[16-Jan-2016 20:58:49 UTC] PHP Warning:  include(/home/ubuntu/workspace/includes/db.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Yank/Chapter_7/admin/jokes/index.php on line 368
+[16-Jan-2016 20:58:49 UTC] PHP Stack trace:
+[16-Jan-2016 20:58:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/jokes/index.php:0
+[16-Jan-2016 20:58:49 UTC] PHP Warning:  include(): Failed opening '/home/ubuntu/workspace/includes/db.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Yank/Chapter_7/admin/jokes/index.php on line 368
+[16-Jan-2016 20:58:49 UTC] PHP Stack trace:
+[16-Jan-2016 20:58:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/jokes/index.php:0
+[16-Jan-2016 20:58:49 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/Yank/Chapter_7/admin/jokes/index.php on line 372
+[16-Jan-2016 20:58:49 UTC] PHP Stack trace:
+[16-Jan-2016 20:58:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/Yank/Chapter_7/admin/jokes/index.php:0

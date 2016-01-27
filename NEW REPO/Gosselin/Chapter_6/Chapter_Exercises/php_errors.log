@@ -1,0 +1,10 @@
+[08-Jan-2016 20:57:03 UTC] PHP Fatal error:  Cannot use [] for reading in /home/ubuntu/workspace/Gosselin/Chapter_6/Chapter_Exercises/Chapter_Exercise_6-21/Two_Dimensional_Associative_Arrays.php on line 12
+[08-Jan-2016 21:02:19 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/Gosselin/Chapter_6/Chapter_Exercises/Chapter_Exercise_6-21/Two_Dimensional_Associative_Arrays.php on line 13
+[08-Jan-2016 21:02:33 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/Gosselin/Chapter_6/Chapter_Exercises/Chapter_Exercise_6-21/Two_Dimensional_Associative_Arrays.php on line 13
+[08-Jan-2016 22:13:36 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, boolean given in /home/ubuntu/workspace/Gosselin/Chapter_6/Chapter_Exercises/Chapter_Exercise_6-21/Two_Dimensional_Associative_Arrays.php on line 20
+[08-Jan-2016 22:13:36 UTC] PHP Stack trace:
+[08-Jan-2016 22:13:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Gosselin/Chapter_6/Chapter_Exercises/Chapter_Exercise_6-21/Two_Dimensional_Associative_Arrays.php:0
+[08-Jan-2016 22:13:36 UTC] PHP   2. array_keys(*uninitialized*) /home/ubuntu/workspace/Gosselin/Chapter_6/Chapter_Exercises/Chapter_Exercise_6-21/Two_Dimensional_Associative_Arrays.php:20
+[08-Jan-2016 22:21:39 UTC] PHP Warning:  Illegal offset type in /home/ubuntu/workspace/Gosselin/Chapter_6/Chapter_Exercises/Chapter_Exercise_6-21/Two_Dimensional_Associative_Arrays.php on line 21
+[08-Jan-2016 22:21:39 UTC] PHP Stack trace:
+[08-Jan-2016 22:21:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/Gosselin/Chapter_6/Chapter_Exercises/Chapter_Exercise_6-21/Two_Dimensional_Associative_Arrays.php:0
